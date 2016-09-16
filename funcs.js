@@ -47,4 +47,4 @@
       var canpad=can.getContext("2d")
 
       canpad.drawImage(images[0],0,0)
-}
+    }
